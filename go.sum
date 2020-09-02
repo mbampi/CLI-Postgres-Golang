@@ -1,0 +1,8 @@
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/lib/pq v1.8.0 h1:9xohqzkUwzR4Ga4ivdTcawVS89YSDVxXMa3xJX3cGzg=
+github.com/lib/pq v1.8.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/thatisuday/clapper v1.0.10 h1:1EkqE/nb4npp8DuTKnpvVzO/Mcac9lOPND34uUKF+bU=
+github.com/thatisuday/clapper v1.0.10/go.mod h1:FQGIg8q2uzeI+3SUS82YKF4E3KexkHStbiK4qTfDknM=
+github.com/thatisuday/commando v1.0.4 h1:aNdH9tvmx2EPG6rT3NTQOV/qFYPf4Ap4Spo+q+n9Ois=
+github.com/thatisuday/commando v1.0.4/go.mod h1:ODGz6jwJs4QqhLJtCjRRs8xIrmLLMdatYYddP+v1b4E=
